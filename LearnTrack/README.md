@@ -49,4 +49,4 @@ The application starts at `com.airtribe.learntrack.Main`. All information is sto
 
 See `docs/` for setup, JVM basics, design decisions, and a manual test checklist.
 
-Note - This project is made using AI Assistance.
+Note - This project was made using AI Assistance.
